@@ -6,6 +6,7 @@
 * [Winning Condition](#winning-condition)
 * [In Game Layout](#in-game-layout)
 * [Technologies](#technologies)
+* [Set UP](#set-up)
 * [Website Url](#website-url)
 * [Status](#status)
 
@@ -48,6 +49,21 @@ S or Z - Piece Winning Condition Example
 * HTML
 * CSS
 * JS
+
+## Set Up
+Step 1: Download or Clone this repo
+
+    git clone https://github.com/loopfree/Tic-Tac-Tris.git
+
+</br>
+Step 2: Run on Terminal
+
+    .\run.bat
+    
+</br>
+Step 3: Type on Browser
+
+    localhost:8080
 
 ## Website Url
 Url: https://loopfree.github.io/Tic-Tac-Tris/
