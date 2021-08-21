@@ -6,7 +6,7 @@
 * [Winning Condition](#winning-condition)
 * [In Game Layout](#in-game-layout)
 * [Technologies](#technologies)
-* [Set UP](#set-up)
+* [Set Up](#set-up)
 * [Website Url](#website-url)
 * [Status](#status)
 
