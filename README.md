@@ -16,19 +16,19 @@
 * The first player to create a tetris piece won.
 
 ## Winning Condition
-O - Piece
+O - Piece Winning Condition Example
 | x | x | - |
 |:-:|:-:|:-:|
 | x | x | - |
 | - | - | - |
 
-L or J - Piece
+L or J - Piece Winning Condition Example
 | - | x | - |
 |:-:|:-:|:-:|
 | - | x | - |
 | - | x | x |
 
-S or Z - Piece
+S or Z - Piece Winning Condition Example
 | - | x | x |
 |:-:|:-:|:-:|
 | x | x | - |
