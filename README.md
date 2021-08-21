@@ -53,4 +53,4 @@ S or Z - Piece Winning Condition Example
 Url: https://loopfree.github.io/Tic-Tac-Tris/
 
 ## Status
-Project is: _Finished_
+Project Status: _Finished_
