@@ -1,7 +1,7 @@
 # Tic Tac Tris
 > A 1v1 TicTacToe game with a twist. The winning condition is to create one of the tetris pieces.
 
-## Table of contents
+## List of Contents
 * [Rules](#rules)
 * [Winning Condition](#winning-condition)
 * [In Game Layout](#in-game-layout)
