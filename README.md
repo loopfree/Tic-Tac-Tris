@@ -55,12 +55,10 @@ Step 1: Download or Clone this repo
 
     git clone https://github.com/loopfree/Tic-Tac-Tris.git
 
-</br>
 Step 2: Run on Terminal
 
     .\run.bat
     
-</br>
 Step 3: Type on Browser
 
     localhost:8080
