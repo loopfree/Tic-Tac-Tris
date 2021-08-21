@@ -22,6 +22,18 @@ O - Piece
 | x | x | - |
 | - | - | - |
 
+L or J - Piece
+| - | x | - |
+|:-:|:-:|:-:|
+| - | x | - |
+| - | x | x |
+
+S or Z - Piece
+| - | x | x |
+|:-:|:-:|:-:|
+| x | x | - |
+| - | - | - |
+
 ## In Game Layout
 ![photo-one](./img/photo1.jpg)
 ![photo-two](./img/photo2.jpg)
