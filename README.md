@@ -17,7 +17,6 @@
 
 ## Winning Condition
 O - Piece
-|:-:|:-:|:-:|
 | x | x | - |
 | x | x | - |
 | - | - | - |
