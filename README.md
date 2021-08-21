@@ -21,6 +21,7 @@ O - Piece Winning Condition Example
 |:-:|:-:|:-:|
 | x | x | - |
 | - | - | - |
+|:-:|:-:|:-:|
 
 T - Piece Winning Condition Example
 | - | - | - |
