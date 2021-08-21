@@ -44,7 +44,7 @@ S or Z - Piece
 * JS
 
 ## Website Url
-    https://loopfree.github.io/Tic-Tac-Tris/
+Url: https://loopfree.github.io/Tic-Tac-Tris/
 
 ## Status
 Project is: _Finished_
